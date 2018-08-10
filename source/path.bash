@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-path_status() {
+path_display() {
 	echo $PATH | tr : '\n'
 }
 
